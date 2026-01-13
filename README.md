@@ -12,6 +12,8 @@ If I had to test login functionality in chrome browser, I would come up with the
 - login with invalid email & valid password in chrome browser
 - login with invalid email & invalid password in chrome browser
 
+## Test case
+
 ### What is a test case?
 A test case is assigned to a scenario. It is a list of steps that need to be executed to complete a test scenario.
 
