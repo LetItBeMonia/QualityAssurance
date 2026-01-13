@@ -7,7 +7,7 @@ A test scenario is a short, one-line description of a software functionality tha
 
 For example:
 If I had to test login functionality in chrome browser, I would come up with the following scenarios:
-- login with valid email & password in chrome browser
+- login with valid email & valid password in chrome browser
 - login with valid email & invalid password in chrome browser
 - login with invalid email & valid password in chrome browser
 - login with invalid email & invalid password in chrome browser
