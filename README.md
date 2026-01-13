@@ -19,7 +19,7 @@ A test case is assigned to a scenario. It is a list of steps that need to be exe
 
 For example:
 If I had to write a test case for "login with invalid email & valid password" scenario, I would come up with the following steps:
-1. Launch a site in chrome browser: [http://www.site.com].
+1. Launch a site in chrome browser: [http://www.example-site.com].
 2. Click on a "Login" button in the top-right corner of the website.
 3. Type invalid email in username field (username: email@gmaill.com).
 4. Type valid password in password field (password: password111$).
