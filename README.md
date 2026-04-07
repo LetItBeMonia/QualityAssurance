@@ -18,6 +18,7 @@ Automated UI tests (a mix of functional tests [checking whether all features wor
 Software often used for end-to-end testing:
 - Selenium, Cypress (for automated UI testing)
 - SpecFlow, Cucumber (for writing Gherkin scenarios)
+
 Often, only the essential parts of the application are tested, and tests are divided into groups, including a critical group that must be executed before every release. End-to-end tests require all application components to work together, so they are performed in environments such as QA (Quality Assurance) or UAT (User Acceptance Testing). This category also includes various types of tests, such as:
 - performance testing
 - regression testing
